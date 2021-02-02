@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Deoployed Amazon
+visit: [https://amazon-clone-pern.netlify.app/]
+
+client:[https://amazon-clone-pern.netlify.app/],
+server:[https://express-amazon-clone-backend.herokuapp.com/]
