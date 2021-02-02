@@ -8,9 +8,6 @@ const dbDetails = require("./database/db-details");
 //importing Pool
 const pool = require("./database/pool");
 
-//requiring production
-//const creatingTableForProduction = require("./database/production");
-
 pool
 	.connect(dbDetails)
 	.then(() => {
