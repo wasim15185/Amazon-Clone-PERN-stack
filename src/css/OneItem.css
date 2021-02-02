@@ -1,0 +1,92 @@
+.Offer-div {
+	max-width: 1550px;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.Product-All-Info {
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+	height: 65vh;
+}
+
+.Offer-div img {
+	width: 35%;
+	height: 80%;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	margin-top: 10px;
+}
+
+.Product-Img {
+	max-width: 350px;
+	max-height: 550px;
+}
+
+.Product-Info {
+	width: 50%;
+}
+.Product-title {
+	padding: 8px;
+	font-size: 140%;
+	font-weight: 600;
+	word-spacing: 1px;
+	line-height: 34px;
+}
+
+.hr {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.Product-price {
+	height: 90px;
+	width: 100%;
+	list-style: none;
+}
+
+.Product-description {
+	width: 94%;
+	font-size: 90%;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	padding: 10px;
+	margin-top: 5px;
+}
+
+.Cart-Option {
+	width: 20%;
+	max-height: 550px;
+	display: flex;
+	justify-content: center;
+}
+
+.Cart-div {
+	width: 250px;
+	height: 300px;
+	border: 1px solid rgb(196, 193, 193);
+	border-radius: 7px;
+}
+
+.Cart-div-body {
+	width: 100%;
+	height: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.Cart-div-body button {
+	width: 55%;
+	height: 15%;
+	font-size: 85%;
+	text-align: center;
+	background-color: #f1c75c;
+	border-radius: 5px;
+}
+
+.ion-ios-cart {
+	font-size: 110%;
+}

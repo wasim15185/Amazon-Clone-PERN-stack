@@ -1,0 +1,28 @@
+.Amazon-cart-container {
+	max-width: 1550px;
+	display: flex;
+	flex-direction: column;
+}
+
+.Amazon-cart-container-Img {
+	width: 50%;
+	max-height: 90px;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	margin-top: 10px;
+}
+
+.Amazon-cart-body {
+	max-width: 100%;
+
+	display: flex;
+	justify-content: space-around;
+}
+
+.List-amazon-cart {
+	width: 1150px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}

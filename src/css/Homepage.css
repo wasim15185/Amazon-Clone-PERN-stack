@@ -1,0 +1,30 @@
+.Homepage {
+	background: linear-gradient(to top, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0));
+	height: auto;
+	margin-top: -300px;
+	max-width: 1550px;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	display: flex;
+	z-index: 999;
+	flex-direction: column;
+	padding-bottom: 13px;
+}
+
+.ItemContainer {
+	width: 95%;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	display: grid;
+	grid-gap: 1em;
+	grid-auto-rows: minmax(250px, 300);
+}
+
+.upperItemContainer,
+.lowerItemContainer {
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.middleItemContainer {
+	grid-template-columns: repeat(3, 1fr);
+}

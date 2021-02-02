@@ -1,0 +1,74 @@
+.container-navbar {
+	background-color: #131921;
+	height: 60px;
+	position: sticky;
+	top: 0;
+	z-index: 100;
+	display: flex;
+	/*display:flex item ta nav item sathe jure dilam*/
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+.container-navbar img {
+	width: 100px;
+
+	object-fit: contain;
+	/* height: 100%; */
+	margin: 0 20px;
+	/* border: 1px solid red; */
+	transform: scale(1.22, 1.3);
+}
+
+.search {
+	height: 70%;
+	background-color: white;
+	display: flex;
+
+	align-items: center;
+	/* width: 50%; */
+	flex: 0.8;
+	justify-content: center;
+}
+
+.search:focus {
+	outline: 1px solid coral;
+}
+
+.search input {
+	width: 95%;
+	height: 90%;
+	outline: none;
+	border: none;
+	/* border: 1px solid red; */
+}
+
+.search button {
+	width: 7%;
+	height: 100%;
+	background: #fdbc69;
+	padding: 0;
+	border: none;
+}
+
+.options {
+	color: white;
+	/* border: 1px solid white; */
+	height: 80%;
+	display: flex;
+	align-items: center;
+}
+.ForCart {
+	text-decoration: none;
+}
+.ForCart:hover {
+	color: #fdbc69;
+}
+
+.account {
+	flex-direction: column;
+}
+
+.account small {
+	font-size: 80%;
+}
