@@ -13,8 +13,8 @@
 }
 
 .Offer-div img {
-	width: 35%;
-	height: 80%;
+	max-width: 30%;
+	max-height: 73%;
 	margin-right: auto !important;
 	margin-left: auto !important;
 	margin-top: 10px;
