@@ -78,5 +78,5 @@ server:[https://express-amazon-clone-backend.herokuapp.com/]
 ### Cons
  **Note: This website is not Mobile Friendly. If u run this Program in Computer That will be better. Media Query Only For Desktop**
  
- <img src="./for readme/pern-amazon-clone"/>
+ <img src="for readme/pern-amazon-clone"/>
 
