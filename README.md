@@ -9,9 +9,13 @@ server:[https://express-amazon-clone-backend.herokuapp.com/]
 ### Backend & Database
 
 **Backend :** For Backend used **Node.js** And **Express** Server .
+
 **Database :** For Database used **Postgress SQL** .
-**Authentication :** For Authentication used **JWT**
-**Front-End :** React.js 
+
+**Authentication :** For Authentication used **JWT**.
+
+**Front-End :** React.js .
+
  <img src="readme/pern-amazon-clone.png"/>
 
 ### Cons
