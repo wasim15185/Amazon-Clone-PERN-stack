@@ -5,14 +5,14 @@ const style = makeStyles({
 	foot: {
 		background: "#232f3e",
 		width: "100%",
-		height: "270px",
+		height: "280px",
 		display: "flex",
 		justifyContent: "space-evenly",
 		alignItems: "start",
 		"& div": {
-			marginTop: "3rem",
+			marginTop: "2.5rem",
 			color: "#fff",
-			width: "15%",
+			maxWidth: "15%",
 			padding: "7px",
 			"& h6": {
 				paddingLeft: "2rem",
@@ -60,7 +60,6 @@ function Footer() {
 					<li>Fulfilment by Amazon</li>
 					<li>Advertise Your Products</li>
 					<li>Amazon Pay on Merchants</li>
-					<li>Lorem ipsum dolor sit amet.</li>
 				</ul>
 			</div>
 			<div>
@@ -72,7 +71,6 @@ function Footer() {
 					<li>Fulfilment by Amazon</li>
 					<li>Advertise Your Products</li>
 					<li>Amazon Pay on Merchants</li>
-					<li>Lorem ipsum dolor sit amet.</li>
 				</ul>
 			</div>
 		</footer>
