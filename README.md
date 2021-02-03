@@ -16,6 +16,8 @@ server:[https://express-amazon-clone-backend.herokuapp.com/]
 
 **Front-End :** React.js .
 
+**Guest User :** *username :* xyz@gmail.com,*password :* xyz
+
  <img src="readme/pern-amazon-clone.png"/>
 
 ### Cons
