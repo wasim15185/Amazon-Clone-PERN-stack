@@ -19,6 +19,13 @@ server:[https://express-amazon-clone-backend.herokuapp.com/]
 
 **Guest User :** *username :* xyz@gmail.com,*password :* xyz
 
+
+### My words about this projects
+**Backend :** First of all i bulid this backend with Nodejs and Express .And My Backend or Sever file is in My this Repo and File name is **"Server"**  . And Deloyed the backend in Heroku Sever 
+              Get all products send GET request to [https://express-amazon-clone-backend.herokuapp.com/products]
+              Get Particular Products send GET request to [https://express-amazon-clone-backend.herokuapp.com/products/1]
+
+
  <img src="readme/pern-amazon-clone.png"/>
 
 ### Cons
