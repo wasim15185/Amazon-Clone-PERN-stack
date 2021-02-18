@@ -21,7 +21,7 @@ server:[https://express-amazon-clone-backend.herokuapp.com/]
 
 
 ### My words about this projects
-**Backend :** First of all i bulid this backend with Nodejs and Express .And My Backend or Sever file is in My this Repo and File name is **"Server"**  . And Deloyed the backend in Heroku Sever 
+**Backend :** First of all i bulid this backend with Nodejs and Express .And My Backend or Sever file is in this Repo and File name is **"Server"**  . And Deloyed the backend in Heroku Sever 
 
 Get all products send GET request to [https://express-amazon-clone-backend.herokuapp.com/products]
 
